@@ -7,7 +7,7 @@
 # ============================================================
 
 # --- Variables ---
-STUDENT_NAME="Aaryan Maurya"
+STUDENT_NAME="Aaryan Aggarwal"
 SOFTWARE_CHOICE="Git"
 LICENSE="GPL v2"
 
