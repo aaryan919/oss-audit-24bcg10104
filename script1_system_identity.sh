@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 1: System Identity Report
-# Author: Aaryan Maurya | Roll: 24BAI10259
+# Author: Aaryan Aggarwal | Roll: 24BCG10104
 # Course: Open Source Software | Software Choice: Git
 # Description: Displays a welcome screen with system info
 # ============================================================
